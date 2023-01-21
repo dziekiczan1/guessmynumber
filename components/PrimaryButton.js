@@ -9,3 +9,5 @@ function PrimaryButton({ children }) {
 }
 
 export default PrimaryButton;
+
+const styles = StyleSheet.create({});
