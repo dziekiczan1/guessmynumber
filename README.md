@@ -1,6 +1,5 @@
 # GuessMyNumber
 
-![GuessMyNumber](https://piotr.rzadkowolski.dev/assets/mobile/proj1a.webp)
 ![GuessMyNumber](https://piotr.rzadkowolski.dev/assets/mobile/proj1b.webp)
 ![GuessMyNumber](https://piotr.rzadkowolski.dev/assets/mobile/proj1c.webp)
 ![GuessMyNumber](https://piotr.rzadkowolski.dev/assets/mobile/proj1d.webp)
